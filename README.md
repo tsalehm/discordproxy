@@ -1,6 +1,9 @@
-دانلود :
+اموزش اندروید : https://github.com/tsalehm/discordproxy/blob/main/android.md
+# برای ویندوز
 
-https://github.com/tsalehm/discordproxy/releases/download/dproxy/dproxy.bat
+
+
+دانلود : https://github.com/tsalehm/discordproxy/releases/download/dproxy/dproxy.bat
 
 
 اسکریپت را دانلود کنید و پورت پروکسی socks5 خود را وارد کنید(عدد) بدون استفاده از tunmode در وی پی ان ها می توانید از دیسکورد استفاده کنید (فقط برنامه وی 2 ری باز باشد و نیازی به روشن کردن tun mode یا pac mode نیست)
